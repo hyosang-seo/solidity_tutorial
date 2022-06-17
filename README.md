@@ -26,3 +26,9 @@ node -v
     n lts
 ```
 5. solidity extantion install in vsc
+
+
+## 2. start
+```
+truffle init
+```
